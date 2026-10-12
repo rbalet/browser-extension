@@ -39,7 +39,7 @@ If you're using a self-hosted Solidtime instance, see the [Docker setup guide](h
 
 ### Prerequisites
 
-- Node.js 20.19+ or 22.12+
+- Node.js 18+
 - npm or pnpm
 
 ### Installation
@@ -66,12 +66,6 @@ npm run build
 
 # Firefox
 npm run build:firefox
-```
-
-### Tests
-
-```bash
-npm test
 ```
 
 ## License
